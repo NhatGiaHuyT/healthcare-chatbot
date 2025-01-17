@@ -111,14 +111,3 @@ Google Cloud
   <li>Figma</li>
   <li>Canva</li>
 </ul>
-
-
-<h2>Documentation link:</h2>
-<hr>
-<a href="https://docs.google.com/document/d/1_GZulixw4hNnEqrQdipfMNQcnomSFIqdettU4vbVxhg/edit?usp=sharing">Link</a>
-
-<h2>Demo Video :</h2> 
-<hr>
-<a href="https://drive.google.com/file/d/1-iiWLJZVQoZK-vmE6SLaPm14FXvvMojj/view?usp=sharing">Video Link </a> 
-
-
