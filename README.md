@@ -1,8 +1,3 @@
-
-
-<h1> Google Cloud Deployed Link : http://34.16.133.175/</h2>
-
-<h1> Title of the project : </h1>
 <h2>AI Healthcare Chatbot</h2> 
 <hr>
  <b>an AI-powered chatbot that can provide healthcare information and support to users. <b>
@@ -121,21 +116,6 @@ Google Cloud
 <h2>Documentation link:</h2>
 <hr>
 <a href="https://docs.google.com/document/d/1_GZulixw4hNnEqrQdipfMNQcnomSFIqdettU4vbVxhg/edit?usp=sharing">Link</a>
-
-
-
-
-<h2>Team Members:</h2> 
-<hr>
-<b> B.Uday Santosh Kumar </b>- <a href="https://github.com/udaysk3">GITHUB</a> <br>
-<b> B.Pradeep Behara </b>- <a href="https://github.com/pradeep-behara">GITHUB</a> <br >
-<b> B.Dhanunjaya Rao </b> - <a href="https://github.com/DarkSaint09">GITHUB</a> <br>
-<b> G.Hemanth Kumar </b> - <a href="https://github.com/HemanthKumar8251">GITHUB</a> <br>
-
-<h2></h2> GITHUB URL :
-<hr>
-<a href="https://github.com/udaysk3/HealthCare-AI-ChatBot">https://github.com/udaysk3/HealthCare-AI-ChatBot</a> 
-
 
 <h2>Demo Video :</h2> 
 <hr>
